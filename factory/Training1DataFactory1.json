@@ -1,0 +1,9 @@
+{
+	"name": "Training1DataFactory1",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bdb00ae3-e6cd-4f14-8f30-6f012512900e",
+		"tenantId": "035ddef6-2433-48b6-8526-70ca8181f76d"
+	}
+}
